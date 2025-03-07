@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Amit Sharma",
+      "email": "amit.sharma@example.com",
+      "qr_code_id": 101,
+      "profile_link": "https://example.com/amitsharma",
+      "mobile_number": "+919812345678"
+    },
+    {
+      "name": "Sonia Verma",
+      "email": "sonia.verma@example.com",
+      "qr_code_id": 102,
+      "profile_link": "https://example.com/soniav",
+      "mobile_number": "+919876543210"
+    },
+    {
+      "name": "Rajesh Gupta",
+      "email": "rajesh.gupta@example.com",
+      "qr_code_id": 103,
+      "profile_link": "https://example.com/rajeshg",
+      "mobile_number": "+919854321678"
+    },
+    {
+      "name": "Priya Nair",
+      "email": "priya.nair@example.com",
+      "qr_code_id": 104,
+      "profile_link": "https://example.com/priyan",
+      "mobile_number": "+919845672389"
+    },
+    {
+      "name": "Vikram Reddy",
+      "email": "vikram.reddy@example.com",
+      "qr_code_id": 105,
+      "profile_link": "https://example.com/vikramr",
+      "mobile_number": "+919832145678"
+    },
+    {
+      "name": "Anjali Mehta",
+      "email": "anjali.mehta@example.com",
+      "qr_code_id": 106,
+      "profile_link": "https://example.com/anjalim",
+      "mobile_number": "+919812398765"
+    },
+    {
+      "name": "Suresh Patil",
+      "email": "suresh.patil@example.com",
+      "qr_code_id": 107,
+      "profile_link": "https://example.com/sureshp",
+      "mobile_number": "+919876512345"
+    },
+    {
+      "name": "Neha Kapoor",
+      "email": "neha.kapoor@example.com",
+      "qr_code_id": 108,
+      "profile_link": "https://example.com/nehak",
+      "mobile_number": "+919898765432"
+    },
+    {
+      "name": "Karthik Iyer",
+      "email": "karthik.iyer@example.com",
+      "qr_code_id": 109,
+      "profile_link": "https://example.com/karthiki",
+      "mobile_number": "+919876543219"
+    },
+    {
+      "name": "Pooja Desai",
+      "email": "pooja.desai@example.com",
+      "qr_code_id": 110,
+      "profile_link": "https://example.com/poojad",
+      "mobile_number": "+919854327890"
+    }
+  ]
